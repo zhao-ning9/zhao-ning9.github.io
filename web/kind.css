@@ -1,0 +1,109 @@
+.div1 {
+    width: 100%;
+    position: relative;
+    height: 150px;
+    background-color: #F0EFE2;
+  }
+  .div1 .img {
+    float: left;
+    padding: 20px;
+  }
+  .div1 p {
+    font-size: 16px;
+    line-height: 1.5em;
+  }
+  .div2 {
+    width: 100%;
+    position: relative;
+    height: 330px;
+    background-color:dodgerblue;
+  }
+  .div2 .img {
+    float: left;
+    padding: 5px;
+  }
+  .div2 p {
+    font-size: 16px;
+    line-height: 1.5em;
+  }
+  .div3 {
+    width: 100%;
+    position: relative;
+    height: 290px;
+    background-color:forestgreen;
+  }
+  .div3 .img {
+    float: left;
+    padding: 5px;
+  }
+  .div3 p {
+    font-size: 16px;
+    line-height: 1.5em;
+  }
+  .div4 {
+    width: 100%;
+    position: relative;
+    height: 400px;
+    background-color:gold;
+  }
+  .div4 .img {
+    float: left;
+    padding: 10px;
+    
+  }
+  .div4 p {
+    font-size: 16px;
+    line-height: 1.5em;
+  }
+  .div5 {
+    width: 100%;
+    position: relative;
+    height: 400px;
+    background-color:grey;
+  }
+  .div5 .img {
+    float: left;
+    padding: 10px;
+    
+  }
+  .div5 p {
+    font-size: 16px;
+    line-height: 1.5em;
+  }
+  .div6 {
+    width: 100%;
+    position: relative;
+    height: 400px;
+    background-color:indigo;
+  }
+  .div6 .img {
+    float: left;
+    padding: 10px;
+    
+  }
+  .div6 p {
+    font-size: 16px;
+    line-height: 1.5em;
+  }
+  .div7 {
+    width: 100%;
+    position: relative;
+    height: 570px;
+    background-color:sienna;
+  }
+  .div7 .img {
+    float: left;
+    padding: 10px;
+    
+  }
+  .div7 p {
+    font-size: 16px;
+    line-height: 1.5em;
+  }
+  footer {
+    left: 100px;
+    height: 100px;
+    background-color: #8ac6d1;
+    text-align: center;
+    line-height: 100px;
+}

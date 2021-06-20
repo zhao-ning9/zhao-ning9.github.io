@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    background-color:darkkhaki;
+}
+nav{
+    height: 30px;
+    margin: 50px;
+    
+}
+.mlist ul{
+    overflow: hidden;
+}
+.mlist li{
+    float: left;
+    list-style-type: none;
+}
+.mlist li + li a{
+    border-left: 1px solid #999999;
+}
+.mlist a{
+    display: block;
+    padding: 0 16px;
+    text-decoration: none;
+    color:red;
+}
+.mlist a:hover{
+    color:darkred;
+}
+#card{
+    width: 100px;
+    
+}
+#footer{
+    
+    left: 100px;
+    color:crimson;
+    
+}
